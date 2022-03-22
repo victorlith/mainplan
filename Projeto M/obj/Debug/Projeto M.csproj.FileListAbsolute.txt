@@ -1,0 +1,318 @@
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\Menplan - Industrial Services.exe.config
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\Menplan - Industrial Services.exe.manifest
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\Menplan - Industrial Services.application
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\Menplan - Industrial Services.exe
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\Menplan - Industrial Services.pdb
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\EntityFramework.dll
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\System.Data.SQLite.dll
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\EntityFramework.xml
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\System.Data.SQLite.xml
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmOrcComercial.resources
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmLogin.resources
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmNotaServico.resources
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmSolicitacaoServico.resources
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.Properties.Resources.resources
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto M.csproj.GenerateResource.cache
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto M.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Menplan - Industrial Services.exe.manifest
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Menplan - Industrial Services.application
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto M.csproj.CopyComplete
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Menplan - Industrial Services.exe
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Menplan - Industrial Services.pdb
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto M.csprojAssemblyReference.cache
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmTelaPrincipal.resources
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\Menplan - Industrial Services.exe.config
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\Menplan - Industrial Services.exe.manifest
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\Menplan - Industrial Services.application
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\Menplan - Industrial Services.exe
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\Menplan - Industrial Services.pdb
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\EntityFramework.dll
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\System.Data.SQLite.dll
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\EntityFramework.xml
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\System.Data.SQLite.xml
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmNotaServico.resources
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmOrcComercial.resources
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmLogin.resources
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmTelaPrincipal.resources
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmSolicitacaoServico.resources
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.Properties.Resources.resources
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto M.csproj.GenerateResource.cache
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto M.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Menplan - Industrial Services.exe.manifest
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Menplan - Industrial Services.application
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto M.csproj.CopyComplete
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Menplan - Industrial Services.exe
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Menplan - Industrial Services.pdb
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto M.csprojAssemblyReference.cache
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmOcrComercial2.resources
+D:\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\Menplan - Industrial Services.exe.config
+D:\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\Menplan - Industrial Services.exe.manifest
+D:\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\Menplan - Industrial Services.application
+D:\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\Menplan - Industrial Services.exe
+D:\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\Menplan - Industrial Services.pdb
+D:\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\BouncyCastle.Crypto.dll
+D:\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\EntityFramework.dll
+D:\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\itextsharp.dll
+D:\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\System.Data.SQLite.dll
+D:\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\EntityFramework.xml
+D:\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\itextsharp.xml
+D:\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\System.Data.SQLite.xml
+D:\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmNotaServico.resources
+D:\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmOcrComercial2.resources
+D:\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmOrcComercial.resources
+D:\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmLogin.resources
+D:\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmTelaPrincipal.resources
+D:\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmSolicitacaoServico.resources
+D:\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.Properties.Resources.resources
+D:\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto M.csproj.GenerateResource.cache
+D:\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto M.csproj.CoreCompileInputs.cache
+D:\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Menplan - Industrial Services.exe.manifest
+D:\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Menplan - Industrial Services.application
+D:\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Menplan - Industrial Services.exe
+D:\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Menplan - Industrial Services.pdb
+D:\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto M.csproj.AssemblyReference.cache
+D:\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmDadosProposta.resources
+D:\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto M.csproj.SuggestedBindingRedirects.cache
+D:\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Menplan - Industrial Services.TrustInfo.xml
+D:\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto M.csproj.CopyComplete
+C:\Users\victo\Desktop\Nova pasta\Menplan - Industrial Services.exe.config
+C:\Users\victo\Desktop\Nova pasta\Menplan - Industrial Services.exe.manifest
+C:\Users\victo\Desktop\Nova pasta\Menplan - Industrial Services.application
+C:\Users\victo\Desktop\Nova pasta\Menplan - Industrial Services.exe
+C:\Users\victo\Desktop\Nova pasta\Menplan - Industrial Services.pdb
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto M.csproj.AssemblyReference.cache
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto M.csproj.SuggestedBindingRedirects.cache
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmDadosProposta.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmNotaServico.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmOcrComercial2.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmOrcComercial.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmLogin.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmTelaPrincipal.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmSolicitacaoServico.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.Properties.Resources.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto M.csproj.GenerateResource.cache
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto M.csproj.CoreCompileInputs.cache
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Menplan - Industrial Services.exe
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Menplan - Industrial Services.pdb
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\Menplan - Industrial Services.exe.config
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\Menplan - Industrial Services.exe.manifest
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\Menplan - Industrial Services.application
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\Menplan - Industrial Services.exe
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\Menplan - Industrial Services.pdb
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\BouncyCastle.Crypto.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\EntityFramework.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\EntityFramework.SqlServer.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\itextsharp.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\System.Data.SQLite.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\EntityFramework.xml
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\EntityFramework.SqlServer.xml
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\itextsharp.xml
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\bin\Debug\System.Data.SQLite.xml
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Menplan - Industrial Services.TrustInfo.xml
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Menplan - Industrial Services.exe.manifest
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Menplan - Industrial Services.application
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto M.csproj.CopyComplete
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Projeto M\obj\Debug\Projeto_M.frmVisualizarSolicitacao.resources
+D:\Projeto M\obj\Debug\Projeto M.csproj.AssemblyReference.cache
+D:\Projeto M\obj\Debug\Projeto M.csproj.SuggestedBindingRedirects.cache
+D:\Projeto M\obj\Debug\Projeto_M.frmDadosProposta.resources
+D:\Projeto M\obj\Debug\Projeto_M.frmNotaServico.resources
+D:\Projeto M\obj\Debug\Projeto_M.frmOcrComercial2.resources
+D:\Projeto M\obj\Debug\Projeto_M.frmOrcComercial.resources
+D:\Projeto M\obj\Debug\Projeto_M.frmLogin.resources
+D:\Projeto M\obj\Debug\Projeto_M.frmTelaPrincipal.resources
+D:\Projeto M\obj\Debug\Projeto_M.frmSolicitacaoServico.resources
+D:\Projeto M\obj\Debug\Projeto_M.frmVisualizarSolicitacao.resources
+D:\Projeto M\obj\Debug\Projeto_M.Properties.Resources.resources
+D:\Projeto M\obj\Debug\Projeto M.csproj.GenerateResource.cache
+D:\Projeto M\obj\Debug\Projeto M.csproj.CoreCompileInputs.cache
+D:\Projeto M\obj\Debug\Menplan - Industrial Services.exe
+D:\Projeto M\obj\Debug\Menplan - Industrial Services.pdb
+D:\Projeto M\bin\Debug\Menplan - Industrial Services.exe.config
+D:\Projeto M\bin\Debug\Menplan - Industrial Services.exe.manifest
+D:\Projeto M\bin\Debug\Menplan - Industrial Services.application
+D:\Projeto M\bin\Debug\Menplan - Industrial Services.exe
+D:\Projeto M\bin\Debug\Menplan - Industrial Services.pdb
+D:\Projeto M\bin\Debug\BouncyCastle.Crypto.dll
+D:\Projeto M\bin\Debug\EntityFramework.dll
+D:\Projeto M\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projeto M\bin\Debug\itextsharp.dll
+D:\Projeto M\bin\Debug\System.Data.SQLite.dll
+D:\Projeto M\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Projeto M\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Projeto M\bin\Debug\EntityFramework.xml
+D:\Projeto M\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projeto M\bin\Debug\itextsharp.xml
+D:\Projeto M\bin\Debug\System.Data.SQLite.xml
+D:\Projeto M\obj\Debug\Menplan - Industrial Services.TrustInfo.xml
+D:\Projeto M\obj\Debug\Menplan - Industrial Services.exe.manifest
+D:\Projeto M\obj\Debug\Menplan - Industrial Services.application
+D:\Projeto M\obj\Debug\Projeto M.csproj.CopyComplete
+\\PC-01\Servidor\Projeto M\bin\Debug\Menplan - Industrial Services.exe.config
+\\PC-01\Servidor\Projeto M\bin\Debug\Menplan - Industrial Services.exe.manifest
+\\PC-01\Servidor\Projeto M\bin\Debug\Menplan - Industrial Services.application
+\\PC-01\Servidor\Projeto M\bin\Debug\Menplan - Industrial Services.exe
+\\PC-01\Servidor\Projeto M\bin\Debug\Menplan - Industrial Services.pdb
+\\PC-01\Servidor\Projeto M\bin\Debug\BouncyCastle.Crypto.dll
+\\PC-01\Servidor\Projeto M\bin\Debug\EntityFramework.dll
+\\PC-01\Servidor\Projeto M\bin\Debug\EntityFramework.SqlServer.dll
+\\PC-01\Servidor\Projeto M\bin\Debug\itextsharp.dll
+\\PC-01\Servidor\Projeto M\bin\Debug\System.Data.SQLite.dll
+\\PC-01\Servidor\Projeto M\bin\Debug\System.Data.SQLite.EF6.dll
+\\PC-01\Servidor\Projeto M\bin\Debug\System.Data.SQLite.Linq.dll
+\\PC-01\Servidor\Projeto M\bin\Debug\EntityFramework.xml
+\\PC-01\Servidor\Projeto M\bin\Debug\EntityFramework.SqlServer.xml
+\\PC-01\Servidor\Projeto M\bin\Debug\itextsharp.xml
+\\PC-01\Servidor\Projeto M\bin\Debug\System.Data.SQLite.xml
+\\PC-01\Servidor\Projeto M\obj\Debug\Projeto M.csproj.AssemblyReference.cache
+\\PC-01\Servidor\Projeto M\obj\Debug\Projeto M.csproj.SuggestedBindingRedirects.cache
+\\PC-01\Servidor\Projeto M\obj\Debug\Projeto_M.frmDadosProposta.resources
+\\PC-01\Servidor\Projeto M\obj\Debug\Projeto_M.frmNotaServico.resources
+\\PC-01\Servidor\Projeto M\obj\Debug\Projeto_M.frmOcrComercial2.resources
+\\PC-01\Servidor\Projeto M\obj\Debug\Projeto_M.frmOrcComercial.resources
+\\PC-01\Servidor\Projeto M\obj\Debug\Projeto_M.frmLogin.resources
+\\PC-01\Servidor\Projeto M\obj\Debug\Projeto_M.frmTelaPrincipal.resources
+\\PC-01\Servidor\Projeto M\obj\Debug\Projeto_M.frmSolicitacaoServico.resources
+\\PC-01\Servidor\Projeto M\obj\Debug\Projeto_M.frmVisualizarSolicitacao.resources
+\\PC-01\Servidor\Projeto M\obj\Debug\Projeto_M.Properties.Resources.resources
+\\PC-01\Servidor\Projeto M\obj\Debug\Projeto M.csproj.GenerateResource.cache
+\\PC-01\Servidor\Projeto M\obj\Debug\Projeto M.csproj.CoreCompileInputs.cache
+\\PC-01\Servidor\Projeto M\obj\Debug\Menplan - Industrial Services.TrustInfo.xml
+\\PC-01\Servidor\Projeto M\obj\Debug\Menplan - Industrial Services.exe.manifest
+\\PC-01\Servidor\Projeto M\obj\Debug\Menplan - Industrial Services.application
+\\PC-01\Servidor\Projeto M\obj\Debug\Projeto M.csproj.CopyComplete
+\\PC-01\Servidor\Projeto M\obj\Debug\Menplan - Industrial Services.exe
+\\PC-01\Servidor\Projeto M\obj\Debug\Menplan - Industrial Services.pdb
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\Menplan - Industrial Services.exe.config
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\Menplan - Industrial Services.exe.manifest
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\Menplan - Industrial Services.application
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\Menplan - Industrial Services.exe
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\Menplan - Industrial Services.pdb
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\BouncyCastle.Crypto.dll
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\EntityFramework.dll
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\EntityFramework.SqlServer.dll
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\itextsharp.dll
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\System.Data.SQLite.dll
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\EntityFramework.xml
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\EntityFramework.SqlServer.xml
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\itextsharp.xml
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\System.Data.SQLite.xml
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto M.csproj.AssemblyReference.cache
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto M.csproj.SuggestedBindingRedirects.cache
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmDadosProposta.resources
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmNotaServico.resources
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmOrcComercial.resources
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmLogin.resources
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmTelaPrincipal.resources
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmSolicitacaoServico.resources
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmVisualizarSolicitacao.resources
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.Properties.Resources.resources
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto M.csproj.GenerateResource.cache
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto M.csproj.CoreCompileInputs.cache
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Menplan - Industrial Services.TrustInfo.xml
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Menplan - Industrial Services.exe.manifest
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Menplan - Industrial Services.application
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto M.csproj.CopyComplete
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Menplan - Industrial Services.exe
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Menplan - Industrial Services.pdb
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\Menplan - Industrial Services.exe.config
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\Menplan - Industrial Services.exe.manifest
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\Menplan - Industrial Services.application
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\Menplan - Industrial Services.exe
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\Menplan - Industrial Services.pdb
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\BouncyCastle.Crypto.dll
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\EntityFramework.dll
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\EntityFramework.SqlServer.dll
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\itextsharp.dll
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\System.Data.SQLite.dll
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\System.Data.SQLite.EF6.dll
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\System.Data.SQLite.Linq.dll
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\EntityFramework.xml
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\EntityFramework.SqlServer.xml
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\itextsharp.xml
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\System.Data.SQLite.xml
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto M.csproj.AssemblyReference.cache
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto M.csproj.SuggestedBindingRedirects.cache
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmDadosProposta.resources
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmNotaServico.resources
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmOrcComercial.resources
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmLogin.resources
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmTelaPrincipal.resources
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmSolicitacaoServico.resources
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmVisualizarSolicitacao.resources
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.Properties.Resources.resources
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto M.csproj.GenerateResource.cache
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto M.csproj.CoreCompileInputs.cache
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Menplan - Industrial Services.TrustInfo.xml
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Menplan - Industrial Services.exe.manifest
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Menplan - Industrial Services.application
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto M.csproj.CopyComplete
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Menplan - Industrial Services.exe
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Menplan - Industrial Services.pdb
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\bin\Debug\Menplan - Industrial Services.exe.config
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\bin\Debug\Menplan - Industrial Services.exe.manifest
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\bin\Debug\Menplan - Industrial Services.application
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\bin\Debug\Menplan - Industrial Services.exe
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\bin\Debug\Menplan - Industrial Services.pdb
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\bin\Debug\BouncyCastle.Crypto.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\bin\Debug\EntityFramework.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\bin\Debug\EntityFramework.SqlServer.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\bin\Debug\itextsharp.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\bin\Debug\System.Data.SQLite.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\bin\Debug\EntityFramework.xml
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\bin\Debug\EntityFramework.SqlServer.xml
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\bin\Debug\itextsharp.xml
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\bin\Debug\System.Data.SQLite.xml
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\obj\Debug\Projeto M.csproj.AssemblyReference.cache
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\obj\Debug\Projeto M.csproj.SuggestedBindingRedirects.cache
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\obj\Debug\Projeto_M.frmDadosProposta.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\obj\Debug\Projeto_M.frmNotaServico.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\obj\Debug\Projeto_M.frmOrcComercial.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\obj\Debug\Projeto_M.frmLogin.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\obj\Debug\Projeto_M.frmTelaPrincipal.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\obj\Debug\Projeto_M.frmSolicitacaoServico.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\obj\Debug\Projeto_M.frmVisualizarSolicitacao.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\obj\Debug\Projeto_M.Properties.Resources.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\obj\Debug\Projeto M.csproj.GenerateResource.cache
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\obj\Debug\Projeto M.csproj.CoreCompileInputs.cache
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\obj\Debug\Menplan - Industrial Services.TrustInfo.xml
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\obj\Debug\Menplan - Industrial Services.exe.manifest
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\obj\Debug\Menplan - Industrial Services.application
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\obj\Debug\Projeto M.csproj.CopyComplete
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\obj\Debug\Menplan - Industrial Services.exe
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\obj\Debug\Menplan - Industrial Services.pdb
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmEditarMaoDeObra.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\obj\Debug\Projeto_M.frmEditarMaoDeObra.resources
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmVisualizacaoNota.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\gs-menplan\obj\Debug\Projeto_M.frmVisualizacaoNota.resources
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\ConsoleApp1.exe
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\ConsoleApp1.pdb
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\ConsoleApp1.exe.config
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\ConsoleApp1.exe
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\ConsoleApp1.pdb
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\bin\Debug\ConsoleApp1.exe.config
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmEditarMaoDeObra.resources
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmVisualizacaoNota.resources
+C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmEditarMaterial.resources
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmEditarMaterial.resources
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.Form1.resources

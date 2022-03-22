@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "69f911c8-1076-412d-9cfe-6345a1d0080a": {
+      "ProjectGuid": "69f911c8-1076-412d-9cfe-6345a1d0080a",
+      "DisplayName": "Projeto M",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "70171c69-63df-40e3-92ed-952851f3c867": {
+      "ProjectGuid": "70171c69-63df-40e3-92ed-952851f3c867",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

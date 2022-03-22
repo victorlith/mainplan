@@ -1,0 +1,11 @@
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Cockpit-Menplan\bin\Release\Cockpit-Menplan.exe.config
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Cockpit-Menplan\bin\Release\Cockpit-Menplan.exe
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Cockpit-Menplan\bin\Release\Cockpit-Menplan.pdb
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Cockpit-Menplan\obj\Release\Cockpit-Menplan.csproj.AssemblyReference.cache
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Cockpit-Menplan\obj\Release\Cockpit-Menplan.csproj.SuggestedBindingRedirects.cache
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Cockpit-Menplan\obj\Release\Cockpit_Menplan.TelaPrincipal.resources
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Cockpit-Menplan\obj\Release\Cockpit_Menplan.Properties.Resources.resources
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Cockpit-Menplan\obj\Release\Cockpit-Menplan.csproj.GenerateResource.cache
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Cockpit-Menplan\obj\Release\Cockpit-Menplan.csproj.CoreCompileInputs.cache
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Cockpit-Menplan\obj\Release\Cockpit-Menplan.exe
+\\PC-01\Servidor\0. Programas\Cockpit-Menplan\Cockpit-Menplan\obj\Release\Cockpit-Menplan.pdb

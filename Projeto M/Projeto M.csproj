@@ -1,0 +1,589 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\EntityFramework.6.3.0\build\EntityFramework.props" Condition="Exists('packages\EntityFramework.6.3.0\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{69F911C8-1076-412D-9CFE-6345A1D0080A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Projeto_M</RootNamespace>
+    <AssemblyName>Menplan - Industrial Services</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>C:\Users\victo\Desktop\WebSite\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>14</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>D4B0E3A6FB108DBC59A75BD08D1DF3933411A15A</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Projeto M_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.6.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>packages\BouncyCastle.1.8.6.1\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.3.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.3.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.2, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\iTextSharp.5.5.13.2\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.DebuggerVisualizers, Version=16.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.113.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.113.3\lib\net46\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.113.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>packages\System.Data.SQLite.EF6.1.0.113.0\lib\net46\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.113.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>packages\System.Data.SQLite.Linq.1.0.113.0\lib\net46\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CalculosCustosFinais.cs" />
+    <Compile Include="Class\AdicionarItemMaterial.cs" />
+    <Compile Include="Class\AtualizarEmpresa.cs" />
+    <Compile Include="Class\AtualizarUsuario.cs" />
+    <Compile Include="Class\BancoDatas.cs" />
+    <Compile Include="Class\CadastroEmpresa.cs" />
+    <Compile Include="Class\GeraNovoID.cs" />
+    <Compile Include="Class\SolicitacaoServico.cs" />
+    <Compile Include="Class\CadastroUsuario.cs" />
+    <Compile Include="Class\CalculoDeHora.cs" />
+    <Compile Include="Class\Conexao.cs" />
+    <Compile Include="Class\DadosPdf.cs" />
+    <Compile Include="Class\ExibirTabela.cs" />
+    <Compile Include="Class\GerarPDF.cs" />
+    <Compile Include="Class\ListasDeServico.cs" />
+    <Compile Include="Class\LogsDoSistema.cs" />
+    <Compile Include="Class\NotaServico.cs" />
+    <Compile Include="Class\PastaDestino.cs" />
+    <Compile Include="Class\RegistrarCustosFinais.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDadosProposta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDadosProposta.Designer.cs">
+      <DependentUpon>frmDadosProposta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditarMaoDeObra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditarMaoDeObra.Designer.cs">
+      <DependentUpon>frmEditarMaoDeObra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditarMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditarMaterial.Designer.cs">
+      <DependentUpon>frmEditarMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNotaServico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNotaServico.Designer.cs">
+      <DependentUpon>frmNotaServico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOrcComercial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOrcComercial.Designer.cs">
+      <DependentUpon>frmOrcComercial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaPrincipal.Designer.cs">
+      <DependentUpon>frmTelaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSolicitacaoServico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSolicitacaoServico.Designer.cs">
+      <DependentUpon>frmSolicitacaoServico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVisualizacaoNota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVisualizacaoNota.Designer.cs">
+      <DependentUpon>frmVisualizacaoNota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVisualizarSolicitacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVisualizarSolicitacao.Designer.cs">
+      <DependentUpon>frmVisualizarSolicitacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Cliente.cs" />
+    <Compile Include="Model\Fucnionario.cs" />
+    <Compile Include="Model\NotaDeServico.cs" />
+    <Compile Include="Model\Orçamento.cs" />
+    <Compile Include="Model\PDF.cs" />
+    <Compile Include="Model\SolicitacaoDeServico.cs" />
+    <Compile Include="Model\Usuario.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDadosProposta.resx">
+      <DependentUpon>frmDadosProposta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditarMaoDeObra.resx">
+      <DependentUpon>frmEditarMaoDeObra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditarMaterial.resx">
+      <DependentUpon>frmEditarMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNotaServico.resx">
+      <DependentUpon>frmNotaServico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOrcComercial.resx">
+      <DependentUpon>frmOrcComercial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaPrincipal.resx">
+      <DependentUpon>frmTelaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSolicitacaoServico.resx">
+      <DependentUpon>frmSolicitacaoServico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVisualizacaoNota.resx">
+      <DependentUpon>frmVisualizacaoNota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVisualizarSolicitacao.resx">
+      <DependentUpon>frmVisualizarSolicitacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Projeto M_TemporaryKey.pfx" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1567014128917.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\007-taxes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\010-list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\122-curriculum-vitae.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\026-file-65.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-close-window-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\059-file-57.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manutencao.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\126-file-building-39.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\126-file-automation-39.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg_azul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Verde.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vermelho.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\led_vermelho.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_mp_bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\205-file-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\037-invoice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\205-file-money-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gears.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\led_verde.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_mp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\upload-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icone-Menplan.ico" />
+    <None Include="Resources\icons8-desligar-100.png" />
+    <None Include="Resources\icons8-configurações-100.png" />
+    <None Include="Resources\icons8-menu-superior-100.png" />
+    <None Include="Resources\icons8-crachá-100.png" />
+    <None Include="Resources\icons8-conferência-100.png" />
+    <None Include="Resources\icons8-pop-up-de-detalhes-100.png" />
+    <None Include="Resources\icons8-single-page-mode-100.png" />
+    <None Include="Resources\editar-arquivo-30.png" />
+    <None Include="Resources\Logo_Branca.png" />
+    <None Include="Resources\Tela - Fluxograma_2.png" />
+    <None Include="Resources\icon6.png" />
+    <None Include="Resources\filtro-35.png" />
+    <None Include="Resources\atualizar-35.png" />
+    <None Include="Resources\lista_orcamento-35.png" />
+    <None Include="Resources\lista_1-35.png" />
+    <None Include="Resources\lista_2-35.png" />
+    <None Include="Resources\lupa-35.png" />
+    <None Include="Resources\trash-can-35.png" />
+    <None Include="Resources\menu-35.png" />
+    <None Include="Resources\usuarios_4-35.png" />
+    <None Include="Resources\clientes-35.png" />
+    <None Include="Resources\orcamento-35.png" />
+    <None Include="Resources\nota_servico-35.png" />
+    <None Include="Resources\lista_servico-35.png" />
+    <None Include="Resources\solicitacao-35.png" />
+    <None Include="Resources\icone %2821%29.png" />
+    <None Include="Resources\icons8-agreement-30.png" />
+    <None Include="Resources\icons8-check-file-30.png" />
+    <None Include="Resources\icons8-go-back-30.png" />
+    <None Include="Resources\icons8-save-close-30.png" />
+    <None Include="Resources\Tela - Fluxograma1.png" />
+    <None Include="Resources\Tela - Fluxograma.png" />
+    <None Include="Resources\img2_menplan.png" />
+    <None Include="Resources\logo-mp.png" />
+    <None Include="Resources\close-window-48.png" />
+    <None Include="Resources\icons8-macos-close-96.png" />
+    <None Include="Resources\icons8-shutdown-96.png" />
+    <None Include="Resources\icons8-purchase-order-30.png" />
+    <None Include="Resources\icons8-transaction-list-30.png" />
+    <None Include="Resources\icons8-cashbook-30.png" />
+    <None Include="Resources\icons8-us-dollar-30.png" />
+    <None Include="Resources\icon-01.png" />
+    <None Include="Resources\icons8-calculator-30.png" />
+    <None Include="Resources\icons8-estimate-25.png" />
+    <None Include="Resources\icons8-calculator-15.png" />
+    <None Include="Resources\icons8-attach-30 %281%29.png" />
+    <None Include="Resources\WhatsApp Image 2021-05-11 at 22.58.58.jpeg" />
+    <None Include="Resources\icons8-clear-symbol-30.png" />
+    <None Include="Resources\icons8-ok-30 %281%29.png" />
+    <None Include="Resources\icons8-cancel-30.png" />
+    <None Include="Resources\icons8-estimate-30.png" />
+    <None Include="Resources\icons8-accounting-30.png" />
+    <None Include="Resources\icons8-broom-30.png" />
+    <None Include="Resources\icons8-add-30 -%282%29.png" />
+    <None Include="Resources\icons8-add-30.png" />
+    <None Include="Resources\icons8-slider-96.png" />
+    <None Include="Resources\icons8-no-connection.gif" />
+    <None Include="Resources\icone %2817%29.png" />
+    <None Include="Resources\icone %2816%29.png" />
+    <None Include="Resources\icons8-user-96.png" />
+    <None Include="Resources\logo_mp_branca.png" />
+    <None Include="Resources\res.png" />
+    <None Include="Resources\maxi.png" />
+    <None Include="Resources\minimazar.png" />
+    <None Include="Resources\cerrar.png" />
+    <None Include="Resources\icone %2814%29.png" />
+    <None Include="Resources\icons8-form-64.png" />
+    <None Include="Resources\icone %2813%29.png" />
+    <None Include="Resources\icone %284%29.png" />
+    <None Include="Resources\icone %2811%29.png" />
+    <None Include="Resources\icone %282%29.png" />
+    <None Include="Resources\icone %285%291.png" />
+    <None Include="Resources\icone %283%29.png" />
+    <None Include="Resources\icone %289%29.png" />
+    <None Include="Resources\icone %286%292.png" />
+    <None Include="Resources\icone %287%29.png" />
+    <None Include="Resources\icons8-new-copy-50.png" />
+    <None Include="Resources\icone %286%291.png" />
+    <None Include="Resources\icons8-form-30px.png" />
+    <None Include="Resources\icone %286%29.png" />
+    <None Include="Resources\icone %285%29.png" />
+    <None Include="Resources\icons8-person-256.png" />
+    <None Include="Resources\icons8-padlock-outline-96.png" />
+    <None Include="Resources\icons8-person-64 %281%29.png" />
+    <None Include="Resources\icons8-person-64.png" />
+    <None Include="Resources\icons8-form-30px1.png" />
+    <None Include="Resources\icon5.png" />
+    <None Include="Resources\icon4.png" />
+    <None Include="Resources\icon3.png" />
+    <None Include="Resources\icon2.png" />
+    <None Include="Resources\icon1.png" />
+    <None Include="Resources\icon_testeb.png" />
+    <None Include="Resources\icon_teste4.png" />
+    <None Include="Resources\icon_teste3.png" />
+    <None Include="Resources\icon_teste2.png" />
+    <None Include="Resources\icon_teste1.png" />
+    <None Include="Resources\icon_teste.png" />
+    <None Include="Resources\icons8-form-301.png" />
+    <None Include="Resources\icons8-form-30.png" />
+    <None Include="Resources\person.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="BouncyCastle.Crypto">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="EntityFramework">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="EntityFramework.SqlServer">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Icone-Menplan.ico">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="itextsharp">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Menplan - Industrial Services.pdb">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Exclude</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.VisualStudio.DebuggerVisualizers">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="System.Data.SQLite">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="System.Data.SQLite.EF6">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="System.Data.SQLite.Linq">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ConsoleApp1\ConsoleApp1.csproj">
+      <Project>{70171c69-63df-40e3-92ed-952851f3c867}</Project>
+      <Name>ConsoleApp1</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este projeto faz referência a pacotes do NuGet que não estão presentes neste computador. Use a Restauração de Pacotes do NuGet para baixá-los.  Para obter mais informações, consulte http://go.microsoft.com/fwlink/?LinkID=322105. O arquivo ausente é {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\EntityFramework.6.3.0\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.3.0\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('packages\EntityFramework.6.3.0\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.3.0\build\EntityFramework.targets'))" />
+    <Error Condition="!Exists('packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.113.3\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.113.3\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets'))" />
+  </Target>
+  <Import Project="packages\EntityFramework.6.3.0\build\EntityFramework.targets" Condition="Exists('packages\EntityFramework.6.3.0\build\EntityFramework.targets')" />
+  <Import Project="packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.113.3\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets" Condition="Exists('packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.113.3\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" />
+</Project>

@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Comandos><Teste><comando>teste</comando><descricao>Este comando retorna um nome</descricao></Teste><TesteDois><comando>teste2</comando><descricao>Este comando deve retorna outro dados.</descricao></TesteDois></Comandos>

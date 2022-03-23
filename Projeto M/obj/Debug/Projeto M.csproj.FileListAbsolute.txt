@@ -316,3 +316,44 @@ C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmVisual
 C:\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmEditarMaterial.resources
 \\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmEditarMaterial.resources
 \\PC-01\Servidor\0. Programas\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.Form1.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\obj\Debug\Projeto M.csproj.AssemblyReference.cache
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\obj\Debug\Projeto M.csproj.SuggestedBindingRedirects.cache
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.Form1.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmDadosProposta.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmEditarMaoDeObra.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmEditarMaterial.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmNotaServico.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmOrcComercial.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmLogin.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmTelaPrincipal.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmSolicitacaoServico.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmVisualizacaoNota.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.frmVisualizarSolicitacao.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\obj\Debug\Projeto_M.Properties.Resources.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\obj\Debug\Projeto M.csproj.GenerateResource.cache
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\obj\Debug\Projeto M.csproj.CoreCompileInputs.cache
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\obj\Debug\Menplan - Industrial Services.exe
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\obj\Debug\Menplan - Industrial Services.pdb
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\bin\Debug\Menplan - Industrial Services.exe.config
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\bin\Debug\Menplan - Industrial Services.exe.manifest
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\bin\Debug\Menplan - Industrial Services.application
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\bin\Debug\Menplan - Industrial Services.exe
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\bin\Debug\Menplan - Industrial Services.pdb
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\bin\Debug\BouncyCastle.Crypto.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\bin\Debug\ConsoleApp1.exe
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\bin\Debug\EntityFramework.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\bin\Debug\EntityFramework.SqlServer.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\bin\Debug\itextsharp.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\bin\Debug\System.Data.SQLite.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\bin\Debug\ConsoleApp1.pdb
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\bin\Debug\ConsoleApp1.exe.config
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\bin\Debug\EntityFramework.xml
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\bin\Debug\EntityFramework.SqlServer.xml
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\bin\Debug\itextsharp.xml
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\bin\Debug\System.Data.SQLite.xml
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\obj\Debug\Menplan - Industrial Services.TrustInfo.xml
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\obj\Debug\Menplan - Industrial Services.exe.manifest
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\obj\Debug\Menplan - Industrial Services.application
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Cockpit-Menplan\Projeto M\obj\Debug\Projeto M.csproj.CopyComplete

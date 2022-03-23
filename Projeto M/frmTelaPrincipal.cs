@@ -1105,6 +1105,11 @@ namespace Projeto_M
             
         }
 
+        private void pnListaServico_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
         private void btnAcessarNota_Click_1(object sender, EventArgs e)
         {
             //if (idNota == "" || linhaAtual < 0)
